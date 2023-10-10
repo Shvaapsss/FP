@@ -1,0 +1,3 @@
+C:/Users/nicki/CLionProjects/FP/cmake-build-debug/CMakeFiles/FP.dir
+C:/Users/nicki/CLionProjects/FP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicki/CLionProjects/FP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
