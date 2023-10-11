@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-    const int size = 100;
+    int size;
+    cout<<"введите количество элементов массива"<<endl;
+    cin>>size;
     int a[size];
     for (int i = 0; i < size; i++) {
         cin >> a[i];
@@ -17,8 +19,7 @@ int main() {
         cout << a[i] << " ";
         if (a[i] < 0) {
             negativeNumbers[negIndex] = a[i];
-            negIndex++;
-        } else {
+            negIndex++; }else {
             positiveNumbers[posIndex] = a[i];
             posIndex++;
         }
