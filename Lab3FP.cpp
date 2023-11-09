@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     const char inputString[] = "apple88bird ice0bow*^#mile";
-    const char* delimiters = " _!@#$%^&*()+=1234567890-=";
+    const char* delimiters = " _!?.,;'[/><:}{]@#$%^&*()+=1234567890-=";
     const char* vowels = "aeiouAEIOU";
     const char* consonants = "bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ";
 
